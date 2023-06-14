@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brown_200">#633C36</color>
+    <color name="pink_500">#E9AAA0</color>
+    <color name="grey_700">#E1D2CF</color>
+    <color name="white_200">#F8F6F5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="brown_700">#301D1B</color>
+    <color name="brown_600">#544645</color>
+    <color name="brown_100">#978280</color>
+    <color name="white_100">#E1D2CF</color>
+    <color name="white_700">#F8F6F5</color>
+</resources>
